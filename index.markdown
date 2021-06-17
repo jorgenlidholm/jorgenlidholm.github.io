@@ -1,10 +1,9 @@
 ---
 layout: page
-title: Index
+title: Thoughts on software
 permalink: /
 excerpt_separator: <!--end_of_excerpt-->
 ---
-
 
 
 # My thoughts on software maintainability

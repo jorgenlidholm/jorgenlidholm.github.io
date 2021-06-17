@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Intension and Convention"
+title: "1. Intension and Convention"
 ---
 
 # Intension and convention, two keys factors to successfull code maintenance.
