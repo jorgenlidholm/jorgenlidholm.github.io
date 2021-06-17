@@ -10,7 +10,7 @@ excerpt_separator: <!--end_of_excerpt-->
 
 {% for post in site.posts %}
 
-### [{{ post.title }}]({{ post.url }})
+### [{{ post.title }}]({{ post.url }}) ({{ post.date }})
 {{ post.excerpt }}
 
 {% endfor %}

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "1. Intension and Convention"
+tags: ["C#", "beginning"]
 ---
 
 # Intension and convention, two keys factors to successfull code maintenance.
