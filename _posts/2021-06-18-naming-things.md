@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Intension and Convention"
-date: 2021-06-17
-tags: ["C#", "beginning"]
+title: "Naming things"
+date: 2021-06-18
+tags: ["C#", "naming"]
 excerpt_separator: <!--end_of_excerpt-->
 ---
 
