@@ -2,9 +2,8 @@
 layout: post
 title: "1. Intension and Convention"
 tags: ["C#", "beginning"]
+excerpt_separator: <!--end_of_excerpt-->
 ---
-
-# Intension and convention, two keys factors to successfull code maintenance.
 
 When I work on software, there are two factors that make me fell secure. In the sense that what I'm doing is correct.
 
