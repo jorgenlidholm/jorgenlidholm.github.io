@@ -29,7 +29,7 @@ twitter_username: jorgenlidholm
 github_username:  jorgenlidholm
 
 # Build settings
-theme: Tactile
+theme: jekyll-theme-tactile
 plugins:
   - jekyll-feed
 
