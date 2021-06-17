@@ -1,0 +1,16 @@
+---
+layout: post
+title: "Intension and Convention"
+---
+
+# Intension and convention, two keys factors to successfull code maintenance.
+
+When I work on software, there are two factors that make me fell secure. In the sense that what I'm doing is correct.
+
+*Clear intension* and *strict convention*.
+
+In a few blog posts I will discoss some points that I believe help improve
+the maintainability of software. I intent to mainly (if not only) present 
+examples in C#, however most ideas should be language agnostic.
+
+I hope you like it and please reach out if you like.
