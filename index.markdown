@@ -5,9 +5,9 @@ permalink: /
 excerpt_separator: <!--end_of_excerpt-->
 ---
 
-# {{ page.title }}
 
-## My thoughts on software maintainability
+
+# My thoughts on software maintainability
 
 {% for post in site.posts %}
 
