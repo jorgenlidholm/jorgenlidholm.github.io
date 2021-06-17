@@ -28,7 +28,7 @@ twitter_username: jorgenlidholm
 github_username:  jorgenlidholm
 
 # Build settings
-theme: jekyll-theme-tactile
+theme: minima
 plugins:
   - jekyll-feed
 
