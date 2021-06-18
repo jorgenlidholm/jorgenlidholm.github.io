@@ -13,3 +13,8 @@ excerpt_separator: <!--end_of_excerpt-->
 **{{ post.date | date: "%b %d, -%y" }}**
 {{ post.excerpt }}
 {% endfor %}
+
+
+
+
+[Posts by tag](/tags)
