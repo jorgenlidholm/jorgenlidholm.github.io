@@ -2,7 +2,7 @@
 layout: post
 title: "Intension and Convention"
 date: 2021-06-17
-tags: ["C#", "beginning"]
+tags: ["C#", "Intention", "Convention"]
 excerpt_separator: <!--end_of_excerpt-->
 ---
 
