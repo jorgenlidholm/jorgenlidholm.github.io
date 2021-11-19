@@ -10,7 +10,7 @@ When I work on software, there are two factors that make me feel secure. In the 
 
 *Clear intension* and *strict convention*.
 <!--end_of_excerpt-->
-In a few blog posts I will discoss some points that I believe help improve
+In a few blog posts I will discuss some points that I believe help improve
 the maintainability of software. I intent to mainly (if not only) present 
 examples in C#, however most ideas should be language agnostic.
 
