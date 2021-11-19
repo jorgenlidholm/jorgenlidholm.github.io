@@ -4,11 +4,31 @@ title: Posts by tag
 permalink: /tags
 ---
 
+<style>
+    li.inline-tag  {
+        list-style: outside none none;
+        display: inline-block;
+        width: 300;
+        background-color:lavender;
+        margin: 3px;
+        padding-left: 4px;
+        padding-right: 4px;
+        border-radius: 4px;
+    }
+    span.tag  {
+        background:lavender;
+        border-radius: 3px;
+        padding-left: 4px;
+        padding-right: 4px;
+    }
+</style>
+
 <ul class="tags">
     {% for tag in site.tags %}
         {% assign t = tag | first %}
         {% assign posts = tag | last %}
-        <li style="list-style: outside none none; display: inline-block; width: 300; background-color:lavender; margin: 3px; padding-left: 4px; padding-right: 4px; border-radius: 4px ;">{{t | downcase | replace:" ","-" }}:{{ posts | size }}</li>
+        <!-- style="list-style: outside none none; display: inline-block; width: 300; background-color:lavender; margin: 3px; padding-left: 4px; padding-right: 4px; border-radius: 4px ;" -->
+        <li class="inline-tag" >{{t | downcase | replace:" ","-" }}:{{ posts | size }} </li>
     {% endfor %}
 </ul>
 
@@ -16,7 +36,7 @@ permalink: /tags
     {% assign t = tag | first %}
     {% assign posts = tag | last %}
 
-    <span style="background:lavender; border-radius: 3px; padding-left: 4px; padding-right: 4px;">{{ t | downcase }}</span>
+    <span class="tag">{{ t | downcase }}</span>
     <ul>
     {% for post in posts %}
     {% if post.tags contains t %}
