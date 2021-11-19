@@ -6,7 +6,7 @@ tags: ["C#", "Intention", "Convention"]
 excerpt_separator: <!--end_of_excerpt-->
 ---
 
-When I work on software, there are two factors that make me fell secure. In the sense that what I'm doing is correct.
+When I work on software, there are two factors that make me feel secure. In the sense that what I'm doing is correct.
 
 *Clear intension* and *strict convention*.
 <!--end_of_excerpt-->
